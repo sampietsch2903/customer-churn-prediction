@@ -25,7 +25,7 @@ This project uses supervised machine learning to predict whether a customer will
 - Both models showed strong separation between churn and non-churn classes
 
 ## ROC Curve
-(![image](https://github.com/user-attachments/assets/a1681016-dee1-45dc-bfac-dfff4a45bfd8)
+![image](https://github.com/user-attachments/assets/a1681016-dee1-45dc-bfac-dfff4a45bfd8)
 
 ## Sample Output
 Logistic Regression:
